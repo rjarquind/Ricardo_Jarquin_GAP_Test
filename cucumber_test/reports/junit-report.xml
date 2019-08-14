@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="login-go-the-page;first-steps-to-login-to-the-page" tests="6" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="/Users/rjarquin/Desktop/cucumber_test/features/login.feature">
+            </property>
+        </properties>
+        <testcase name="When I go to the page" classname="login-go-the-page;first-steps-to-login-to-the-page" time="5.147005679">
+        </testcase>
+        <testcase name="Then verify the objects exist" classname="login-go-the-page;first-steps-to-login-to-the-page" time="0.050339062">
+        </testcase>
+        <testcase name="Then create a new user" classname="login-go-the-page;first-steps-to-login-to-the-page" time="5.815567865">
+        </testcase>
+        <testcase name="Then Verify User created" classname="login-go-the-page;first-steps-to-login-to-the-page" time="0.025298385">
+        </testcase>
+        <testcase name="Then Delete User" classname="login-go-the-page;first-steps-to-login-to-the-page" time="0.115248874">
+        </testcase>
+        <testcase name="When Verify User Deleted" classname="login-go-the-page;first-steps-to-login-to-the-page" time="0.00013816">
+        </testcase>
+    </testsuite>
+</testsuites>

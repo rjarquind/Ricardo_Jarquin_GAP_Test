@@ -1,0 +1,112 @@
+[
+  {
+    "elements": [
+      {
+        "id": "login-go-the-page;first-steps-to-login-to-the-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "First steps to login to the page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I go to the page",
+            "result": {
+              "status": "passed",
+              "duration": 5147005679
+            },
+            "line": 4,
+            "match": {
+              "location": "/Users/rjarquin/Desktop/cucumber_test/step-definitions/login.js:4"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "verify the objects exist",
+            "result": {
+              "status": "passed",
+              "duration": 50339062
+            },
+            "line": 5,
+            "match": {
+              "location": "/Users/rjarquin/Desktop/cucumber_test/step-definitions/login.js:23"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "create a new user",
+            "result": {
+              "status": "passed",
+              "duration": 5815567865
+            },
+            "line": 6,
+            "match": {
+              "location": "/Users/rjarquin/Desktop/cucumber_test/step-definitions/login.js:33"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "Verify User created",
+            "result": {
+              "status": "passed",
+              "duration": 25298385
+            },
+            "line": 7,
+            "match": {
+              "location": "/Users/rjarquin/Desktop/cucumber_test/step-definitions/login.js:89"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "Delete User",
+            "result": {
+              "status": "passed",
+              "duration": 115248874
+            },
+            "line": 8,
+            "match": {
+              "location": "/Users/rjarquin/Desktop/cucumber_test/step-definitions/login.js:98"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "Verify User Deleted",
+            "result": {
+              "status": "passed",
+              "duration": 138160
+            },
+            "line": 9,
+            "match": {
+              "location": "/Users/rjarquin/Desktop/cucumber_test/step-definitions/login.js:104"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 124420655
+            },
+            "hidden": true,
+            "match": {
+              "location": "/Users/rjarquin/Desktop/cucumber_test/node_modules/selenium-cucumber-js/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "login-go-the-page",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Login go the page",
+    "tags": [],
+    "uri": "/Users/rjarquin/Desktop/cucumber_test/features/login.feature"
+  }
+]
